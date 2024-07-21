@@ -1,0 +1,36 @@
+.nav ,.main-div {
+    align-items: center;
+
+}
+.main-div{
+    align-items: center;
+}
+
+
+.sub-2 h4{
+    color: orangered;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.foot{
+    background-color: black;
+}
+.foot p{
+    color: rgb(245, 237, 237);}
+    .foot p{
+        display: flex;
+    }
+ .foot , sub-12{
+    color: white;
+ }
+ .sub-12 ,a {
+    text-align: center;
+ }
+ .i1{
+    color: brown;
+ }
